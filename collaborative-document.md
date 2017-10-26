@@ -117,6 +117,10 @@ However, we encounter a problem with conclusion drawn above - the graph indicate
  
  ![Billy's graph of London Consituencies](BillyB-plot.svg)
  
+ This plot shows the relationship between electorate size and the total number of votes counted in the "London" region. In particular, we are looking at the chnages between 2015 and 2017 general elections.
+There were no "London" constituencies in which the total number of votes decreased. Where the electorate size increased, so did the number of votes counted in each constituency. 
+Tottenham saw an increase in its electorate size, however the number of votes counted increased by a larger multiplier than its electorate size. Tottenham had one of the largest relative increases in votes counted in the "London" area.
+ 
 ### Christopher
 
  137       Chatham & Aylesford
