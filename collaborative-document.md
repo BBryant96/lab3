@@ -29,6 +29,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Dominic Foong Wen Hao
 - Nathan Quinn
 - Ollie Harvey
+- Billy Bryant
 
 (add your name as a new bullet-point to the above list)
 
@@ -113,6 +114,8 @@ However, we encounter a problem with conclusion drawn above - the graph indicate
 ### Billy
 
  578                 Tottenham
+ 
+ ![Billy's graph of London Consituencies](BillyB-plot.svg)
  
 ### Christopher
 
